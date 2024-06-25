@@ -14,6 +14,7 @@
 > - Armazene a frase digitada pela pessoa em uma variável.
 > - Exiba a frase digitada pela pessoa.
 
+---
 
 3- Peça à pessoa para inserir seu primeiro e último nome, e exiba o nome completo.
 
@@ -23,6 +24,7 @@
 > - Armazene o último nome em uma variável.
 > - Exiba uma mensagem que combine o primeiro e o último nome da pessoa.
 
+---
 
 4- Peça à pessoa uma palavra e exiba a palavra repetida três vezes.
 
@@ -30,6 +32,7 @@
 > - Armazene a palavra em uma variável.
 > - Exiba a palavra repetida três vezes, sem espaços entre as repetições.
 
+---
 
 5- Pergunte à pessoa qual é sua cor favorita e exiba a resposta.
 
@@ -37,6 +40,7 @@
 > - Armazene a cor favorita em uma variável.
 > - Exiba uma mensagem confirmando a cor favorita da pessoa.
 
+---
 
 6- Pergunte à pessoa qual é seu animal favorito e exiba a resposta.
 
@@ -44,6 +48,7 @@
 > - Armazene o nome do animal favorito em uma variável.
 > - Exiba uma mensagem confirmando o animal favorito da pessoa.
 
+---
 
 7- Peça à pessoa para inserir seu nome e idade, e exiba uma mensagem personalizada.
 
@@ -53,6 +58,7 @@
 > - Armazene a idade em uma variável.
 > - Exiba uma mensagem personalizada que inclua o nome e a idade da pessoa.
 
+---
 
 8- Peça à pessoa três itens para uma lista de compras e exiba a lista completa.
 
@@ -64,8 +70,9 @@
 > - Armazene o terceiro item em uma variável.
 > - Exiba uma mensagem listando todos os itens fornecidos pela pessoa.
 
+---
 
-10- Pergunte à pessoa qual é seu filme favorito e exiba a resposta.
+9- Pergunte à pessoa qual é seu filme favorito e exiba a resposta.
 
 > - Solicite que a pessoa digite o nome de seu filme favorito.
 > - Armazene o nome do filme favorito em uma variável.
