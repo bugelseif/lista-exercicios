@@ -1,2 +1,3 @@
-# lista-exercicios
-Lista de exercícios de programação
+# Lista de exercícios de programação
+
+Alguns exercícios para praticar códigos.
