@@ -10,7 +10,7 @@
 
 2- Peça à pessoa para digitar uma frase e exiba a frase de volta.
 
-> - Solicite quea pessoa digite uma frase.
+> - Solicite que a pessoa digite uma frase.
 > - Armazene a frase digitada pela pessoa em uma variável.
 > - Exiba a frase digitada pela pessoa.
 
